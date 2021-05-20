@@ -1,7 +1,7 @@
 # MachineLearningCP
 
 Usando a biblioteca sklearn, elaboramos um programa em python que lê três valores a respeito da glicemia do paciente de modo a ser analisado pelo método "machine learning". Utilizamos os seguintes critérios como forma de diagnóstico: Em jejum* , pós-sobrecarga** e glicemia casual***.
-* Sem ingestão de alimentos há no mínimo 8 horas.
+\* Sem ingestão de alimentos há no mínimo 8 horas.
 ** Duas horas após 75g de glicose.
 *** Realizado em qualquer hora do dia.
 
